@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "24f2006775@ds.study.iitm.ac.in",
+    "version": "bf517539"
+  },
+  "products": [
+    {"id":"prod-bf517539-001","name":"Basic Item 1","category":"sports","price":39.11,"stock":92,"rating":2.8},
+    {"id":"prod-bf517539-002","name":"Standard Item 2","category":"home","price":254.18,"stock":55,"rating":3.4},
+    {"id":"prod-bf517539-003","name":"Premium Item 3","category":"electronics","price":139.71,"stock":48,"rating":4.9},
+    {"id":"prod-bf517539-004","name":"Standard Item 4","category":"electronics","price":118.43,"stock":15,"rating":2.5},
+    {"id":"prod-bf517539-005","name":"Pro Item 5","category":"home","price":213.64,"stock":193,"rating":1.5},
+    {"id":"prod-bf517539-006","name":"Standard Item 6","category":"home","price":353.06,"stock":124,"rating":2.4},
+    {"id":"prod-bf517539-007","name":"Basic Item 7","category":"electronics","price":246.92,"stock":125,"rating":4.3},
+    {"id":"prod-bf517539-008","name":"Elite Item 8","category":"home","price":168.41,"stock":109,"rating":4.6},
+    {"id":"prod-bf517539-009","name":"Basic Item 9","category":"sports","price":462.81,"stock":8,"rating":4.6},
+    {"id":"prod-bf517539-010","name":"Pro Item 10","category":"clothing","price":410.2,"stock":57,"rating":1.2},
+    {"id":"prod-bf517539-011","name":"Premium Item 11","category":"books","price":272.19,"stock":187,"rating":4.1},
+    {"id":"prod-bf517539-012","name":"Pro Item 12","category":"clothing","price":494.44,"stock":196,"rating":2},
+    {"id":"prod-bf517539-013","name":"Elite Item 13","category":"home","price":85.53,"stock":15,"rating":2.3},
+    {"id":"prod-bf517539-014","name":"Elite Item 14","category":"sports","price":23.71,"stock":179,"rating":3.9},
+    {"id":"prod-bf517539-015","name":"Elite Item 15","category":"clothing","price":212.12,"stock":42,"rating":1.6},
+    {"id":"prod-bf517539-016","name":"Elite Item 16","category":"clothing","price":21.54,"stock":130,"rating":4},
+    {"id":"prod-bf517539-017","name":"Pro Item 17","category":"clothing","price":102.06,"stock":101,"rating":2},
+    {"id":"prod-bf517539-018","name":"Elite Item 18","category":"clothing","price":401.18,"stock":15,"rating":4.2},
+    {"id":"prod-bf517539-019","name":"Basic Item 19","category":"home","price":327.26,"stock":40,"rating":4.2}
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 3,
+      "inventoryValue": 11544.69
+    }
+  }
+}
