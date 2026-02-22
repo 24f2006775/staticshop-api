@@ -1,0 +1,13 @@
+name: My First Action
+
+on: [push]  # Trigger: runs whenever you push code
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # The "chef" is using Ubuntu
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # First, get your code
+
+      - name: 24f2006775@ds.study.iitm.ac.in
+        run: echo "Hello, world!"  # This is the step with your email
