@@ -25,9 +25,10 @@
     {"id":"prod-bf517539-019","name":"Basic Item 19","category":"home","price":327.26,"stock":40,"rating":4.2}
   ],
   "aggregations": {
-    "sports": {
-      "count": 3,
-      "inventoryValue": 11544.69
-    }
+    "sports": {"count":3,"inventoryValue":11544.69},
+    "home": {"count":6,"inventoryValue":122156.47},
+    "electronics": {"count":3,"inventoryValue":47279.7},
+    "clothing": {"count":6,"inventoryValue":77238.0},
+    "books": {"count":1,"inventoryValue":50854.53}
   }
 }
